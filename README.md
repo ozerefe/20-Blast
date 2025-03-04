@@ -1,4 +1,6 @@
 20 BLAST!
+
+💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥
 Tile-Matching Blast Game is a colorful puzzle game developed in Unity, where players interact with a grid of blocks in different colors. The goal is to tap on groups of two or more matching blocks to clear them from the board, earning points and allowing new blocks to fall into place.
 
 Key Features:
@@ -15,3 +17,4 @@ Efficient use of sprite resources to minimize memory footprint.
 Simple but effective logic for group detection and sprite updates to reduce CPU overhead.
 Minimal unnecessary UI updates and smart refresh logic to optimize GPU usage.
 This project is part of a case study focused on creating an optimized and playable collapse/blast puzzle game with clear performance goals.
+💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥
